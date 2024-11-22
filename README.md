@@ -1,4 +1,3 @@
-This was the final project of IOT course which is a wearable blood pressure (BP) monitoring device integrated with GPS tracking and an SMS notification system, managed through a mobile app. 
-The device provides real-time blood pressure readings, sends location-based alerts, and communicates critical health data via SMS to caregivers or healthcare providers, offering a robust solution for remote health monitoring.
-There is also a report in Persian language.
+This was the final project of IOT course which involves the development of an IoT system controlled via a web server hosted on an ESP32 microcontroller. The system interacts with an SRF04 ultrasonic distance sensor, LEDs, and a Servo motor. 
+A mobile phone acts as the client, connecting to the system through a local Wi-Fi network. The project showcases real-time sensor data monitoring and actuator control via a web interface.
 
